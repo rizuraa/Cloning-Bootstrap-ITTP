@@ -1,3 +1,7 @@
+body {
+    background: url("../src/bg.png") repeat;
+}
+
 .bg-custom {
     background: #DB292F;
     border-top-left-radius: 25px;
