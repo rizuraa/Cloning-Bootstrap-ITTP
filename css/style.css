@@ -1,0 +1,10 @@
+.bg-custom {
+    background: #DB292F;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.border-img {
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
