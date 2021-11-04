@@ -74,3 +74,255 @@ body {
     font-size: 1rem;
     border-radius: 0.5rem;
 }
+
+.hr-style {
+    border: 1px solid red;
+    border-bottom: solid 5 px #DB292F;
+    text-transform: uppercase;
+    padding: 0 7 px 13 px;
+    /* margin-left: 90px;
+    margin-right: 90px; */
+    margin-top: -10px;
+}
+
+.section-header {
+    border-bottom: 4px solid #DB292F;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-bottom: 20px;
+}
+
+.nav-title {
+    margin: 0;
+    padding: 0;
+    margin-left: 100px;
+    border-radius: 25px;
+    margin-left: -10px;
+}
+
+.title {
+    border-left: solid 7px #DB292F;
+    background-color: whitesmoke;
+    padding: 10px 20px;
+    border-radius: 0 15px 15px 0;
+    width: fit-content;
+    margin-bottom: 30px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.po-box {
+    border-radius: 15px;
+}
+
+.opini-box {
+    width: 100%;
+    background-color: white;
+}
+
+.opini-title {
+    width: 100%;
+    background-color: rgba(219, 41, 47, .2);
+    color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 7px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.opini-box-contenct p {
+    column-count: 2;
+    column-gap: 20 px;
+    color: #1a1a1a;
+    font-size: .9rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.list-group-item {
+    border: none;
+    background-color: #e0e0e0;
+}
+
+.bg-custom-opini {
+    background-color: #e0e0e0;
+    border-radius: 25xp;
+}
+
+.rounded-3 {
+    border-radius: 25px;
+}
+
+.opini-more {
+    background-color: #DB292F;
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 100px;
+    margin-left: 20px;
+}
+
+.opini-more:hover {
+    background-color: yellow;
+    text-decoration: none;
+    color: white;
+}
+
+.inner-content {
+    background-color: #e0e0e0;
+    display: block;
+}
+
+.highlight-content {
+    width: 100%;
+    background-color: rgba(219, 41, 47, .5);
+}
+
+.highlight-content h3 {
+    font-size: 20px;
+}
+
+.highlight-img {
+    width: 540px;
+    max-height: 360 px;
+    overflow: hidden;
+}
+
+.highlight-title {
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 10 px 25 px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+
+.berita-more {
+    background-color: #FFBF00;
+    padding: 0 0 0 10 px;
+    color: #7D0B15;
+    width: fit-content;
+    margin: 10 px 25 px;
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding-left: 7px;
+    padding-right: 20px;
+}
+
+.link a {
+    text-decoration: none;
+    text-align: center;
+    color: red;
+    background-color: white;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: bold;
+}
+
+.link a:hover {
+    color: white;
+    background-color: yellow;
+}
+
+.content-wrapper {
+    height: 423px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.berita-date {
+    color: #626262;
+    font-size: .8rem;
+    display: block;
+    margin-bottom: 7 px;
+}
+
+.berita-desc {
+    height: 120 px;
+    word-break: break-word;
+    font-size: .8rem;
+}
+
+.berita-next {
+    background-color: #DB292F;
+    padding: 0 0 0 10 px;
+    width: fit-content;
+    margin: 10 px 25 px;
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding-left: 7px;
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+.berita-next:hover {
+    text-decoration: none;
+    color: white;
+    background-color: #FFBF00;
+}
+
+.box-acara {
+    /* background-color: #DB292F; */
+    display: block;
+    margin-right: 100px;
+    margin-left: 100px;
+    border-radius: 25px;
+}
+
+.acara-content {
+    background-color: white;
+    border-radius: 25px;
+}
+
+.bg-red {
+    box-sizing: border-box;
+    background-color: #ff585e2f;
+}
+
+.bg-red-2  {
+    background-color: #DB292F;
+}
+
+.spacer-position {
+    margin-top: -4.3rem;
+}
+
+.radius-box {
+    border-radius: 25px;
+}
+
+.bg-grey {
+    background-color: #f0f0f0;
+}
+
+.bg-dark-red {
+    background-color: #7D0B15;
+}
+
+.bg-img-red {
+    background: url("../src/bg-merah.jpg");
+}
+
+.copyright {
+    font-size: 0.9rem;
+}
+
+.border-left {
+    padding-left: 0.7rem;
+    border-left: 2px solid #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
