@@ -317,3 +317,12 @@ body {
 .copyright {
     font-size: 0.9rem;
 }
+
+.border-left {
+    padding-left: 0.7rem;
+    border-left: 2px solid #ffffff;
+}
+
+a {
+    text-decoration: none;
+}
