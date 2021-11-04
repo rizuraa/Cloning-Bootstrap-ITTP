@@ -290,6 +290,10 @@ body {
     background-color: #ff585e2f;
 }
 
+.bg-red-2  {
+    background-color: #DB292F;
+}
+
 .spacer-position {
     margin-top: -4.3rem;
 }
@@ -302,6 +306,14 @@ body {
     background-color: #f0f0f0;
 }
 
+.bg-dark-red {
+    background-color: #7D0B15;
+}
+
 .bg-img-red {
     background: url("../src/bg-merah.jpg");
+}
+
+.copyright {
+    font-size: 0.9rem;
 }
