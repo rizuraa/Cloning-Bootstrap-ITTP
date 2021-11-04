@@ -291,5 +291,17 @@ body {
 }
 
 .spacer-position {
-    margin-top: -1.3rem;
+    margin-top: -4.3rem;
+}
+
+.radius-box {
+    border-radius: 25px;
+}
+
+.bg-grey {
+    background-color: #f0f0f0;
+}
+
+.bg-img-red {
+    background: url("../src/bg-merah.jpg");
 }
