@@ -24,8 +24,4 @@ Kelompok **Design Pemrograman Web** kami yang beranggotakan :
 
 ### :: Preview Website ::
 
-<p align="center">
-  <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
-     <img alt="lordacil/tugas-besar-pbo" height="60%" width="100%" src="https://i.ibb.co/rsRbSDQ/video1-2021-11-04-17-54-35.gif"/>
-  </a>
-</p>
+![](img/preview.gif)
