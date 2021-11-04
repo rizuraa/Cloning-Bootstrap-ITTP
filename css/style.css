@@ -273,7 +273,7 @@ body {
 }
 
 .box-acara {
-    background-color: #DB292F;
+    /* background-color: #DB292F; */
     display: block;
     margin-right: 100px;
     margin-left: 100px;
@@ -283,4 +283,13 @@ body {
 .acara-content {
     background-color: white;
     border-radius: 25px;
+}
+
+.bg-red {
+    box-sizing: border-box;
+    background-color: #ff585e2f;
+}
+
+.spacer-position {
+    margin-top: -1.3rem;
 }
